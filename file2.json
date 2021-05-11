@@ -1,2 +1,7 @@
-testing
-test123
+{
+   "project" : {
+        "ProjectId"  : "project2",
+        "network"    : "network2",
+        "vpc"        : "vpc2"
+   }
+}
