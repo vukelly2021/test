@@ -1,5 +1,6 @@
 {
    "project" : {
-        "ProjectId"  : "project1"
+        "ProjectId"  : "project1",
+        "network"    : "network"
    }
 }
