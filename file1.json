@@ -1,7 +1,7 @@
 {
    "project" : {
         "ProjectId"  : "project1",
-        "network"    : "network",
+        "Region"    : "us-west-2",
         "vpc"        : "vpc"
    }
 }
