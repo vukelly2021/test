@@ -1,6 +1,8 @@
 {
    "project" : {
         "ProjectId"  : "project1",
-        "vpc"        :  "vpc1"
+        "vpc"        :  "vpc1",
+        "name"       :  "name"
+      
    }
 }
