@@ -8,9 +8,9 @@ node {
     [
        name: "Scanfile",
        echo 'git fetch'
-       git fetch
-       diff_files=`git diff --name-only origin/main `
-       echo $diff_files
+      # git fetch
+      # diff_files=`git diff --name-only origin/main `
+      # echo $diff_files
      ],
      [
        name: "test"
