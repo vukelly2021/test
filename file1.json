@@ -1,8 +1,5 @@
 {
-   "project" : {
-        "ProjectId"  : "project1",
-        "vpc"        :  "vpc1",
-        "name"       : "name11"
-      
-   }
+  "nonprod_1": "INT",
+  "nonprod_2": "QA",
+  "dev_1" "DEV1"
 }
